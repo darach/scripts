@@ -1,0 +1,7 @@
+PATH=/usr/local/bin:$PATH
+PATH=/Users/darach/bin:$PATH
+PATH=/Developer/usr/bin:$PATH
+PATH=/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin:$PATH
+export PATH
+
+VIRTUAL_ENV_DISABLE_PROMPT=1 source /Users/darach/Ubnt/opt/canopy/User/bin/activate
