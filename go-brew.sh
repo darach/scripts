@@ -22,3 +22,7 @@ brew install imagemagick
 # Python
 brew install python
 sudo easy_install pip
+
+# R
+brew tap homebrew/science
+brew install r
