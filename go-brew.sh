@@ -26,3 +26,6 @@ sudo easy_install pip
 # R
 brew tap homebrew/science
 brew install r
+
+# Gnuplot
+brew install gnuplot # also hives in lua, gd
